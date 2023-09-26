@@ -1,0 +1,16 @@
+.tela{
+    position: fixed;
+   width: 80%;
+   height: 80%;
+   border: 3px solid red;
+
+}
+
+.alvo{
+   position: relative;
+   width: 100px;
+   height: 100px;
+   background-color: blue ;
+   border-radius: 100%;
+   border: 10px solid red;
+}
